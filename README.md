@@ -66,6 +66,76 @@ Que tal marcarmos um café e trocarmos experiências?
 </div>
 </div>
 
+## Para distrair um pouco
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+
+#define MAX_TENTATIVAS 6
+#define MAX_PALAVRA 20
+
+// Função para escolher uma palavra aleatória
+char *escolherPalavraAleatoria() {
+    char *palavras[] = {"cachorro", "gato", "elefante", "leao", "tigre", "girafa"};
+    int indice = rand() % 6;
+    return palavras[indice];
+}
+
+// Função para mostrar a palavra com letras adivinhadas
+void mostrarPalavra(char *palavra, char *letrasAdivinhadas) {
+    for (int i = 0; i < strlen(palavra); i++) {
+        if (strchr(letrasAdivinhadas, palavra[i]) != NULL) {
+            printf("%c ", palavra[i]);
+        } else {
+            printf("_ ");
+        }
+    }
+    printf("\n");
+}
+
+int main() {
+    srand(time(NULL));
+    char *palavraSecreta = escolherPalavraAleatoria();
+    char letrasAdivinhadas[MAX_PALAVRA];
+    int tentativas = 0;
+    int acertos = 0;
+
+    printf("Bem-vindo ao Jogo da Forca!\n");
+
+    while (tentativas < MAX_TENTATIVAS && acertos < strlen(palavraSecreta)) {
+        printf("\nPalavra secreta: ");
+        mostrarPalavra(palavraSecreta, letrasAdivinhadas);
+        printf("Tentativas restantes: %d\n", MAX_TENTATIVAS - tentativas);
+
+        char palpite;
+        printf("Digite uma letra: ");
+        scanf(" %c", &palpite);
+        palpite = tolower(palpite);
+
+        if (strchr(letrasAdivinhadas, palpite) != NULL) {
+            printf("Você já escolheu essa letra. Tente novamente.\n");
+            continue;
+        }
+
+        letrasAdivinhadas[acertos] = palpite;
+        letrasAdivinhadas[acertos + 1] = '\0';
+
+        if (strchr(palavraSecreta, palpite) != NULL) {
+            acertos++;
+        } else {
+            tentativas++;
+        }
+    }
+
+    if (acertos == strlen(palavraSecreta)) {
+        printf("\nParabéns! Você adivinhou a palavra: %s\n", palavraSecreta);
+    } else {
+        printf("\nVocê perdeu! A palavra secreta era: %s\n", palavraSecreta);
+    }
+
+    return 0;
+}
 
 
 
