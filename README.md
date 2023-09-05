@@ -66,11 +66,16 @@ Que tal marcarmos um café e trocarmos experiências?
 </div>
 </div>
 
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/flaviadinizmoura/flaviadinizmoura/blob/main/img/footer-gray.gif?raw=true"/>
-</div>
+## 🙏 Agradecimento
 
-<!--- Obrigada pela visita! -->
+Obrigado por visitar o meu perfil no GitHub! Sua visita é muito importante para mim. Como forma de agradecimento, aqui está uma arte ASCII de um gatinho incrivelmente fofo:
+
+   /\_/\  
+  ( o.o )      
+   > ^ <  
+
+Espero que você ache este gatinho adorável! 😸
+
 
 
 
