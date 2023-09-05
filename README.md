@@ -39,7 +39,6 @@ Que tal marcarmos um café e trocarmos experiências?
  - 👩‍💼 Na <a href="https://ffconsultoriaegestao.com.br/" target="_blank">Diniz Assistentes Virtuais</a>, sou gestora;<br />
 - 🐱Hobbies: &nbsp; Meus hobbies são Pescarias, animais, natureza;<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:flavialuciadinizmoura@gmail.com" target="_blank">e-mail</a> pessoal;<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/flaviadinizmoura/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 </p>
 </div>
 </div>
