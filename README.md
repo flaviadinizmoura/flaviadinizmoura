@@ -19,10 +19,9 @@
 <td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img 
 <tr>
 
-## Tecnologias e Habilidades até o momento
+## Habilidades até o momento
 - Linguagens: , C e C++, HTML🌐
 - Ferramentas: Visual Studio Code, Canva, Dev C++, Projectlibre, Figma 🔧
-- Tecnologias: React, Node.js, AWS, MongoDB, MySQL 📦
   
 ## Administração de Empresas
 - Gestão de Projetos 📊
