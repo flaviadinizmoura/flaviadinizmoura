@@ -19,10 +19,23 @@
 <td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img 
 <tr>
 
-
-## Tecnologias e Habilidades
-
-
+## Tecnologias e Habilidades até o momento
+- Linguagens: , C e C++, HTML🌐
+- Ferramentas: Visual Studio Code, Canva, Dev C++, Projectlibre, Figma 🔧
+- Tecnologias: React, Node.js, AWS, MongoDB, MySQL 📦
+  
+## Administração de Empresas
+- Gestão de Projetos 📊
+- Planejamento Estratégico 📈
+- Análise de Dados e Métricas 📈
+- Tomada de Decisões Estratégicas 🧐
+- Gestão Financeira e Orçamentária 💰
+- Gestão de Recursos Humanos 👥
+- Liderança e Desenvolvimento de Equipe 🤝
+- Logística e Cadeia de Suprimentos 🚚
+- Negociação e Resolução de Conflitos 🤝
+- Ética Empresarial e Responsabilidade Social 🌐
+- Ferramentas de Produtividade: Microsoft Excel, PowerPoint, ERP 📊
 
 ## Sobre Mim
 <div align="justify">
