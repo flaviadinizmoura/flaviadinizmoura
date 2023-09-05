@@ -66,7 +66,11 @@ Que tal marcarmos um café e trocarmos experiências?
 </div>
 </div>
 
+<div>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/flaviadinizmoura/flaviadinizmoura/blob/main/img/footer-gray.gif?raw=true"/>
+</div>
 
+<!--- Obrigada pela visita! -->
 
 
 
