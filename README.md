@@ -1,8 +1,13 @@
-# Olá, eu sou Flávia Moura😊
+# </div>
+<div align="justify">
+<i><b>Olá</b> :wave:, sou a <code>Flávia Moura</code>, tenho 42 anos, moro em BH, Sou Administradora e Gestora Social. Atualmente estou <code>Cursando</code> Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>.
+</div>
+😊
 
 ![Imagem de perfil](link-para-imagem-de-perfil)
 
 ## Sobre Mim
+<div align="justify">
 Seja bem-vindo à minha rede!
 Sou determinada e apaixonada por buscar novas oportunidades para transformar a minha realidade. Nascida em Belo Horizonte, sou uma mineira que encontra alegria em 
 assistir filmes, praticar pescaria e apreciar a vida no interior.
@@ -18,7 +23,7 @@ profissionais liberais e pessoas físicas. Tenho experiência em treinamento de 
 Atualmente, estou investindo na minha formação ao cursar Análise e Desenvolvimento de Sistemas, com o objetivo de agregar valor e conhecimento ao meu portfólio profissional. 
 Acredito que essa combinação de experiência em gestão empresarial e habilidades em análise de sistemas me permite oferecer soluções inovadoras e eficientes para os desafios que as empresas enfrentam. 
 Que tal marcarmos um café e trocarmos experiências?
-
+</div>
 ## Projetos Destacados
 - [Nome do Projeto 1](link-para-repositório): Uma breve descrição do Projeto 1 🚀.
 
@@ -27,9 +32,18 @@ Que tal marcarmos um café e trocarmos experiências?
 - Ferramentas: [Lista de ferramentas] 🔧
 - Tecnologias: [Lista de tecnologias] 📦
 
-## Contato
-- E-mail: flavialuciadinizmoura@gmail.com 📫
-- LinkedIn: https://www.linkedin.com/in/flaviadinizmoura💼
+## Interesses
+<div align="justify">
+<p>
+- 👩‍🎓 Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou Aluna do curso de Análise e Desenvolvimento de Sistemas;<br />
+ - 👩‍💼 Na <a href="https://f&fconsultoriaegestao.com.br/" target="_blank">Diniz Assistentes Virtuais</a>, sou gestora;<br />
+- 🐱Hobbies: &nbsp; Meus hobbies são Pescarias, animais, natureza;<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:flavialuciadinizmoura@gmail.com" target="_blank">e-mail</a> pessoal;<br />
+- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/flaviadinizmoura/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+</p>
+</div>
+</div>
+
 
 
 
