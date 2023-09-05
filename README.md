@@ -49,7 +49,7 @@ Que tal marcarmos um café e trocarmos experiências?
 - 👩‍🎓 Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou Aluna do curso de Análise e Desenvolvimento de Sistemas;<br />
  - 👩‍💼 Na <a href="https://ffconsultoriaegestao.com.br/" target="_blank">Diniz Assistentes Virtuais</a>, sou gestora;<br />
 - 🐱Hobbies: &nbsp; Meus hobbies são Pescarias, animais, natureza;<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:flavialuciadinizmoura@gmail.com" target="_blank">e-mail</a> pessoal;<br />
+- Quero muito atuar em tecnologia. Tenho me identificado até o momento com Power BI, Ciencia de Dados e Segurança da Informação.
 </p>
 </div>
 </div>
