@@ -68,13 +68,18 @@ Que tal marcarmos um café e trocarmos experiências?
 
 ## 🙏 Agradecimento
 
-Obrigado por visitar o meu perfil no GitHub! Sua visita é muito importante para mim. Como forma de agradecimento, aqui está uma arte ASCII de um gatinho incrivelmente fofo:
+Obrigado por visitar o meu perfil no GitHub! Sua visita é muito importante para mim. Como forma de agradecimento, aqui está uma arte ASCII de gatinhos incrivelmente fofos:
 
-                                 /\_/\  
-                                ( o.o )      
-                                 > ^ <  
-
+      /\_/\                               /\_/\                                     /\_/\                                               /\_/\  
+     ( o.o )                             ( o.o )                                   ( o.o )                                             ( o.o )
+      > ^ <                               > ^ <                                     > ^ <                                               > ^ <
+  
+  
+   
 Espero que você ache este gatinho adorável! 😸
+
+
+
 
 
 
