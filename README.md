@@ -38,7 +38,7 @@
 
 ## Sobre Mim
 <div align="justify">
-Seja bem-vindo à minha rede!
+Seja bem-vindo(a) à minha rede!
 Sou determinada e apaixonada por buscar novas oportunidades para transformar a minha realidade. Nascida em Belo Horizonte, sou uma mineira que encontra alegria em 
 assistir filmes, praticar pescaria e apreciar a vida no interior.
 Comecei minha carreira como assistente de diretoria, onde adquiri valiosos aprendizados. A paixão pela área de gestão empresarial me levou a obter uma iniciação em Administração de 
@@ -66,7 +66,6 @@ Que tal marcarmos um café e trocarmos experiências?
 </div>
 </div>
 
-## Para distrair um pouco
 
 
 
