@@ -4,7 +4,25 @@
 </div>
 😊
 
-![Imagem de perfil](link-para-imagem-de-perfil)
+## Contatos
+<td align="center" colspan="11"></td>
+</tr> 
+</td>
+<td><a href="mailto:flavialuciadinizmoura@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531975676029" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/flavialucia.dinizmoura/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/flaviadinizmoura/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img 
+<tr>
+
+
+## Tecnologias e Habilidades
+
+
 
 ## Sobre Mim
 <div align="justify">
@@ -24,13 +42,6 @@ Atualmente, estou investindo na minha formação ao cursar Análise e Desenvolvi
 Acredito que essa combinação de experiência em gestão empresarial e habilidades em análise de sistemas me permite oferecer soluções inovadoras e eficientes para os desafios que as empresas enfrentam. 
 Que tal marcarmos um café e trocarmos experiências?
 </div>
-## Projetos Destacados
-- [Nome do Projeto 1](link-para-repositório): Uma breve descrição do Projeto 1 🚀.
-
-## Tecnologias e Habilidades
-- Linguagens: [Lista de linguagens] 🌐
-- Ferramentas: [Lista de ferramentas] 🔧
-- Tecnologias: [Lista de tecnologias] 📦
 
 ## Interesses
 <div align="justify">
