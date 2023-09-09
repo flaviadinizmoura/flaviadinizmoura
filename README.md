@@ -1,5 +1,5 @@
 
- # </div>
+</div>
 <div align="justify">
 <i><b>Olá</b> :wave:, sou a <code>Flávia Moura</code>, tenho 42 anos, moro em BH, Sou Administradora e Gestora Social. Atualmente estou <code>Cursando</code> Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>.
 </div>
