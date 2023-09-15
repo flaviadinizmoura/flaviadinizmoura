@@ -85,7 +85,11 @@ Obrigada por visitar o meu perfil no GitHub! Sua visita é muito importante para
    
 Espero que você goste! 😸
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{flaviadinizmoura}/count.svg" /></p> 
+<br>
+</div>
 
 
 
