@@ -28,7 +28,7 @@
 
 ## Habilidades até o momento
 - 🌐 Linguagens: , C e C++, HTML
-- 🔧 Ferramentas: Visual Studio Code, Canva, Dev C++, Projectlibre, Figma 
+- 🔧 Ferramentas: Visual Studio Code, Canva, Dev C++, Projectlibre, Figma, Power BI.
   
 ## Administração de Empresas
 - 📊 Gestão de Projetos 
