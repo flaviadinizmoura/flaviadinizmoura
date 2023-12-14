@@ -41,7 +41,13 @@
 - 🚚 Logística e Cadeia de Suprimentos 
 - 🤝 Negociação e Resolução de Conflitos 
 - 🌐 Ética Empresarial e Responsabilidade Social 
-- 📊 Ferramentas de Produtividade: Microsoft Excel, PowerPoint, ERP 
+- 📊 Ferramentas de Produtividade: Microsoft Excel, PowerPoint, ERP
+
+## Análise e Desenvolvimento de Sistemas
+- 🧐 Codificação em C, C++ 
+- 📈 Desenvolvimento de Banco de Dados relacional ( Conceitual, Lógico e Físico)
+- 📊 Elaboração e gestão de indicadores - Power BI
+- 🌐 Básico em HTML, CSS
 
 ## Sobre Mim
 <div align="justify">
