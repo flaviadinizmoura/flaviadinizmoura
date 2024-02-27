@@ -71,6 +71,7 @@ Que tal marcarmos um café e trocarmos experiências?
 <p>
 - 👩‍🎓 Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou Aluna do curso de Análise e Desenvolvimento de Sistemas;<br />
 - 👩‍💼 Na <a href="https://ffconsultoriaegestao.com.br/" target="_blank">Diniz Assistentes Virtuais</a>, sou gestora;<br />
+- 👩‍💼 Na <a href="https://sisloc.com.br/" target="_blank">Sisloc Software</a>, sou Analísta de Implantação;<br />
 - 🐱 Hobbies: &nbsp; Pescarias, animais, natureza, filmes e doramas;<br />
 - 🔡 Tenho me identificado até o momento com Banco de Dados, Power BI, Ciencia de Dados e Segurança da Informação.<br />
 </p>
