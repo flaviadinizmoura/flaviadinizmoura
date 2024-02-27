@@ -7,7 +7,7 @@
 -----
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Flávia Diniz Moura</code>, tenho 42 anos, moro em BH, Sou Administradora e Gestora Social. Atualmente estou <code>Cursando</code> Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>.
+<i><b>Olá</b> :wave:, sou a <code>Flávia Diniz Moura</code>, tenho 43 anos, moro em BH, Sou Administradora e Analista de Implantação. Atualmente estou <code>Cursando</code> Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>.
 </div>
 😊
 
@@ -28,7 +28,7 @@
 
 ## Habilidades até o momento
 - 🌐 Linguagens: , C e C++, HTML, SQL
-- 🔧 Ferramentas: Visual Studio Code, Canva, Dev C++, DBeaver, Projectlibre, Figma, Power BI.
+- 🔧 Ferramentas: Visual Studio Code, Canva, Dev C++, DBeaver, Projectlibre, Figma, Power BI, Intellij, Java17
   
 ## Administração de Empresas
 - 📊 Gestão de Projetos 
